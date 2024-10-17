@@ -1,13 +1,32 @@
 h1 {
     color: blueviolet;
-    margin-left: 290px;
+    background-color: aqua;
+    border-radius: 20px;
+    border-color: black;
+    text-align: center;
+    padding: 10px;
 }
 
 .pink {
     color: pink;
-    margin-left: 290px;
+    background-color: brown;
+    text-align: center;
+    border-radius: 20px;
+    border-color: black;
+    padding: 10px;
 }
 .red {
     color: red;
-    margin-left: 290px;
+    background-color: blue;
+    text-align: center;
+    border-radius: 20px;
+    border-color: black;
+    padding: 10px;
+
+}
+
+.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
